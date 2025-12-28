@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+lab3/lab_python_fp/data_light.json
+.DS_Store
