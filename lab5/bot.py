@@ -8,7 +8,7 @@ with open("lab5/token.txt") as f:
 import io
 import sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", "..", "pixelsort"))
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "DZ"))
 from corruption2 import corrupt_image
 
 async def start(update: Update, context: CallbackContext) -> None:
